@@ -1,0 +1,30 @@
+body {
+	background-size: cover
+}
+
+.Heading {
+	font-size: 23px;
+	width: 100%;
+	margin-top: 0
+}
+
+#Start, #Objects, #Status {
+	font-size: 18px
+}
+
+.CopyrightFooter {
+	position: fixed;
+	color: white;
+	bottom: 0;
+	width: 100%;
+	background-color: #444f55;
+	line-height: 3;
+	text-align: center
+}
+
+canvas {
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-top: 200px;
+	box-shadow: 5px 5px 5px black
+}
